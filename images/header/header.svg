@@ -1,12 +1,29 @@
 <svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Uniform dark background -->
-  <rect width="800" height="200" fill="#0f172a"/>
+  <!-- Space-themed background -->
+  <defs>
+    <radialGradient id="spaceGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#spaceGrad)"/>
 
-  <!-- Galaxy-style swirls in corners only -->
-  <path d="M20,20 C80,0 60,80 140,40" stroke="#fcd34d" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M780,20 C720,0 740,80 660,40" stroke="#fb923c" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M20,180 C80,200 60,120 140,160" stroke="#fcd34d" stroke-width="2" fill="none" opacity="0.5"/>
-  <path d="M780,180 C720,200 740,120 660,160" stroke="#fb923c" stroke-width="2" fill="none" opacity="0.5"/>
+  <!-- Floating emojis as stars/tech -->
+  <text x="50" y="50" font-size="20">⭐</text>
+  <animate attributeName="x" values="50;700;50" dur="8s" repeatCount="indefinite" />
+  <animate attributeName="y" values="50;150;50" dur="6s" repeatCount="indefinite" />
+
+  <text x="200" y="30" font-size="18">🌌</text>
+  <animateMotion dur="7s" repeatCount="indefinite" path="M0,0 C50,50 150,50 200,0"/>
+
+  <text x="600" y="120" font-size="16">💻</text>
+  <animateMotion dur="10s" repeatCount="indefinite" path="M0,0 C-60,-40 -150,-40 -200,0"/>
+
+  <text x="400" y="60" font-size="20">⚡</text>
+  <animateMotion dur="8s" repeatCount="indefinite" path="M0,0 C30,20 100,20 130,0"/>
+
+  <text x="700" y="40" font-size="14">⭐</text>
+  <animateMotion dur="12s" repeatCount="indefinite" path="M0,0 C-40,30 -100,30 -120,0"/>
 
   <!-- Main content -->
   <foreignObject width="100%" height="100%">
