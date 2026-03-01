@@ -2,18 +2,17 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Software Engineer at [HIF](https://www.hif.com.au/) in Perth, Australia.  
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Curious about software architecture, system design, and automation.  
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving, efficiency, and productivity.  
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Exploring full-stack development, .NET APIs, CI/CD, and cloud services (AWS, Azure).  
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since early 2000s with strong enterprise software experience.  
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Perth, enjoying chess, piano, fitness, and tech projects.  
+&nbsp;&nbsp;&nbsp;💻 Software Engineer at [HIF](https://www.hif.com.au/) in Perth, Australia.  
+&nbsp;&nbsp;&nbsp;🌱 Curious about software architecture, system design, and automation.  
+&nbsp;&nbsp;&nbsp;❤️ Passionate about problem solving, efficiency, and productivity.  
+&nbsp;&nbsp;&nbsp;📝 Exploring full-stack development, .NET APIs, CI/CD, and cloud services (AWS, Azure).  
+&nbsp;&nbsp;&nbsp;🔧 Coding since early 2000s with strong enterprise software experience.  
+&nbsp;&nbsp;&nbsp;👨‍👩‍👧‍👧 Living in Perth, enjoying chess, piano, fitness, and tech projects.  
 
 <p align="center">
   <a href="mailto:sugamneupane227@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sugamn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/sugam.ne"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/sugam.ne"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a>
 </p>
 
 <hr/>
