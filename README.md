@@ -1,11 +1,5 @@
 <img src="images/svg/header_en.svg"></img>
 
-<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_np.md"><img src="images/np-flag.png" height="13"> Nepali</a></td></tr>
- <tr><td><a href="README_hi.md"><img src="images/in-flag.png" height="13"> Hindi</a></td></tr>
-</table>
-
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Software Engineer at [HIF](https://www.hif.com.au/) in Perth, Australia.  
@@ -62,7 +56,7 @@
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/sugam.ne">
-   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee at buymeacoffee.com/sugam.ne" style="max-width: 100%;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px; width: 217px;" />
  </a>
 </p>
 
