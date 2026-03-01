@@ -1,4 +1,32 @@
 <svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Space-themed background -->
+  <defs>
+    <radialGradient id="spaceGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#spaceGrad)"/>
+
+  <!-- Floating stars / cosmic particles -->
+  <circle cx="50" cy="50" r="2" fill="#fde68a" opacity="0.8">
+    <animate attributeName="cy" values="50;150;50" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="50;700;50" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="30" r="3" fill="#facc15" opacity="0.6">
+    <animateMotion dur="7s" repeatCount="indefinite" path="M0,0 C50,50 150,50 200,0"/>
+  </circle>
+  <circle cx="600" cy="120" r="2.5" fill="#fffacd" opacity="0.5">
+    <animateMotion dur="10s" repeatCount="indefinite" path="M0,0 C-60,-40 -150,-40 -200,0"/>
+  </circle>
+  <circle cx="400" cy="60" r="3" fill="#fde68a" opacity="0.7">
+    <animateMotion dur="8s" repeatCount="indefinite" path="M0,0 C30,20 100,20 130,0"/>
+  </circle>
+  <circle cx="700" cy="40" r="1.5" fill="#fff" opacity="0.4">
+    <animateMotion dur="12s" repeatCount="indefinite" path="M0,0 C-40,30 -100,30 -120,0"/>
+  </circle>
+
+  <!-- Main content -->
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -10,9 +38,9 @@
           justify-content: center;
           height: 200px;
           text-align: center;
-          background: linear-gradient(45deg, #0f172a, #1e293b);
-          border-radius: 10px;
           color: white;
+          position: relative;
+          z-index: 1;
         }
 
         h1 {
