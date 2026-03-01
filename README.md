@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;🌱 Curious about software architecture, system design, and automation.  
 &nbsp;&nbsp;&nbsp;❤️ Passionate about problem solving, efficiency, and productivity.  
 &nbsp;&nbsp;&nbsp;📝 Exploring full-stack development, .NET APIs, CI/CD, and cloud services (AWS, Azure).  
-&nbsp;&nbsp;&nbsp;🔧 Coding since early 2000s with strong enterprise software experience.  
+&nbsp;&nbsp;&nbsp;🔧 Coding since 2016 with strong enterprise software experience.  
 &nbsp;&nbsp;&nbsp;👨‍👩‍👧‍👧 Living in Perth, enjoying chess, piano, fitness, and tech projects.  
 
 <p align="center">
