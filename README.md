@@ -62,7 +62,7 @@
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/sugam.ne">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at buymeacoffee.com/sugam.ne" style="max-width: 100%;">
+   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee at buymeacoffee.com/sugam.ne" style="max-width: 100%;">
  </a>
 </p>
 
