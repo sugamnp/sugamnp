@@ -1,0 +1,65 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          height: 200px;
+          text-align: center;
+          background: linear-gradient(45deg, #0f172a, #1e293b);
+          border-radius: 10px;
+          color: white;
+        }
+
+        h1 {
+          font-size: 50px;
+          margin: 0;
+          background: linear-gradient(90deg, #38bdf8, #818cf8);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        }
+
+        .changing-text {
+          font-size: 24px;
+          font-weight: 300;
+          margin-top: 10px;
+          height: 30px;
+          overflow: hidden;
+        }
+
+        .word-wrapper {
+          display: block;
+          animation: spin 9s infinite cubic-bezier(0.65, 0, 0.35, 1);
+        }
+
+        .word {
+          display: block;
+          height: 30px;
+          line-height: 30px;
+          color: #94a3b8;
+        }
+
+        @keyframes spin {
+          0%, 25% { transform: translateY(0); }
+          33%, 58% { transform: translateY(-30px); }
+          66%, 91% { transform: translateY(-60px); }
+          100% { transform: translateY(0); }
+        }
+      </style>
+      <div class="container">
+        <h1>सुगम (Sugam)</h1>
+        <div class="changing-text">
+          <div class="word-wrapper">
+            <span class="word">Software Engineer</span>
+            <span class="word">Problem Solver</span>
+            <span class="word">Creative Thinker</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
